@@ -1,6 +1,6 @@
-# **Smart Graph Chunking (SGC)**
+# **SmartGraph Chunking (SGC)**
 
-**Smart Graph Chunking (SGC)** is a structured semantic preprocessing technique designed to transform complex documents into clean, coherent, and semantically enriched chunks. It has the potential to significantly improve RAG pipelines by enhancing retrieval quality and reducing model hallucinations.
+**SmartGraph Chunking (SGC)** is a structured semantic preprocessing technique designed to transform complex documents into clean, coherent, and semantically enriched chunks. It has the potential to significantly improve RAG pipelines by enhancing retrieval quality and reducing model hallucinations.
 
 SGC combines, in a single step:
 
